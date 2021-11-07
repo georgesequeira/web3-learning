@@ -1,3 +1,6 @@
+# Random: NFT for doing this
+https://opensea.io/assets/matic/0x3CD266509D127d0Eac42f4474F57D0526804b44e/2597?force_update=true
+
 # Solana project
 Solana is similar to ethereum in that there are smart contracts (named 'Programs' --- how original). The difference is that the programs are stateless whereas Ethereum allows you to store state on the contract themselves. Solana allows you to interact with "Accounts" which store state. So the blockchain only tells you what things will happen but the state is not recorded. Accounts are not the account that you sign up with or have your wallet. It's everything. A program is an account, a wallet is an account, you can also just make an account to store stuff in.... More info here: https://docs.solana.com/developing/programming-model/accounts
 
